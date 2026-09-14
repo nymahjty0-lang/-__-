@@ -1,0 +1,13 @@
+{
+  "name": "tataloo-1405-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "آهنگ های تتلو ۲۰۲۶__۱۴۰۵ - production-ready music site package",
+  "scripts": {
+    "start": "node server__index.js",
+    "build": "echo \"Use the included project package files to deploy the frontend/backend.\""
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
